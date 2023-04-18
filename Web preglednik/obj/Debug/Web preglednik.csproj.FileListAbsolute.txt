@@ -9,3 +9,38 @@ C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\obj\Debug\Web
 C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\obj\Debug\Web preglednik.csproj.CoreCompileInputs.cache
 C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\obj\Debug\Web preglednik.exe
 C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\obj\Debug\Web preglednik.pdb
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.Buffers.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.Memory.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.Text.Json.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.ValueTuple.dll
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.Buffers.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.Memory.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.Text.Json.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\bin\Debug\System.ValueTuple.xml
+C:\Users\piero\Documents\School\NiOP\Web preglednik\Web preglednik\obj\Debug\Web preglednik.csproj.CopyComplete
